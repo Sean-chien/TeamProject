@@ -1,3 +1,2 @@
 # TeamProject
-First -> Game
-Second -> Asian Recipes
+Projects about Game and Asian recipes
