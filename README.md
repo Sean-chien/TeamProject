@@ -1,2 +1,2 @@
 # TeamProject
-easy play the game
+Projects about Game and Asian recipes
