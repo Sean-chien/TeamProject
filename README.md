@@ -1,2 +1,3 @@
 # TeamProject
-easy play the game
+First -> Game
+Second -> Asian Recipes
